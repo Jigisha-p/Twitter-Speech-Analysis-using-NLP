@@ -6,7 +6,7 @@
 - Use cleaned-up tweets to build a classification model using
 NLP techniques, cleanup-specific data for all tweets,
 regularization, and hyperparameter tuning using stratified
-k-fold and cross-validation to get the best model
+k-fold and cross validation to get the best model
 
 ### Prerequisites
 - Sklearn: It includes several effective methods of statistical modeling and
@@ -18,7 +18,7 @@ portion of the targeted algorithm's hyperparameter space.
 
 ### Dataset Description
 
-<B>Variable     - Description</b>
+<B>Variable     - Description</b> <br>
 id           - Identifier number of the comment<br>
 comment_text - The text in the comment<br>
 toxic        - Status of toxicity with 0 for nontoxic and 1 for toxic
